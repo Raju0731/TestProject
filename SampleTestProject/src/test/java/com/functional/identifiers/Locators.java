@@ -16,5 +16,5 @@ public final class Locators {
 	public final By LOGO = By.xpath("//h1");
 	public final By BUTTON_NEXT = By.id("next");
 	public final By BUTTON_SignIn = By.id("signIn");
-	public final By ERROR_MESSAGE = By.id("errormsg_0_Passwd");
+	//public final By ERROR_MESSAGE = By.id("errormsg_0_Passwd");
 }
